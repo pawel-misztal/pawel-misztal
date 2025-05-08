@@ -1,5 +1,10 @@
-# 💫 About Me:
-🌐 I'm Full Stack Developer<br>🕹️ I'm Game Developer<br>⚙️ I'm Mechatronic <br>🎓 I'm Student<br><br> ⛷️I ❤️ Skiing<br> 🏋️‍♂️I lift heavy stuff<br><br> 💪Every problem is an opportunity to grow stronger 💪
+🌐<b>I'm Full Stack Developer</b><br>
+🕹️<b>I'm Game Developer</b><br>
+⚙️<b>I'm Mechatronic </b><br>
+🎓<b>I'm Student</b><br><br> 
+ ⛷️<b>I ❤️ Skiing</b><br> 
+ 🏋️‍♂️<b>I lift heavy stuff</b><br><br>
+ 💪<b>Every problem is an opportunity to grow stronger</b> 💪
 
 
 ## 🌐 Socials:
